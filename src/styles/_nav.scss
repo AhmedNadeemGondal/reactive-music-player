@@ -1,0 +1,33 @@
+nav {
+    min-height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    // border: 2px solid black;
+    padding: 0rem 7rem;
+    h1 {
+        font-size: 1.5rem;
+    }
+    button {
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        padding: 0.5rem;
+        transition: all 0.3s ease;
+        font-size: 1.5rem;
+        &:hover {
+            background: rgb(139, 138, 138);
+            color: aliceblue;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    nav {
+        padding: 0rem 2rem;
+        justify-content: space-between;
+        button {
+            z-index: 10;
+        }
+    }
+}
