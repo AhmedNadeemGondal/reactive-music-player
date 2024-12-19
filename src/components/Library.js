@@ -31,10 +31,6 @@ const Library = ({
           />
         ))}
       </div>
-      <p>
-        Music provided by
-        <a href="https://chillhop.ffm.to/creatorcred"> Chillhop Music</a>
-      </p>
     </div>
   );
 };

@@ -2,6 +2,11 @@
 
 A modern, responsive music player app built with React.
 
+## Live Demo
+
+Check out the live demo of the music player here:  
+[Reactive Music Player](https://ahmednadeemgondal.github.io/reactive-music-player/)
+
 ## Features
 
 - Play and control music tracks.
