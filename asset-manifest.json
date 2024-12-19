@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactive-music-player/static/css/main.3ad14c09.css",
+    "main.js": "/reactive-music-player/static/js/main.25d74021.js",
+    "static/js/453.21f478df.chunk.js": "/reactive-music-player/static/js/453.21f478df.chunk.js",
+    "index.html": "/reactive-music-player/index.html",
+    "main.3ad14c09.css.map": "/reactive-music-player/static/css/main.3ad14c09.css.map",
+    "main.25d74021.js.map": "/reactive-music-player/static/js/main.25d74021.js.map",
+    "453.21f478df.chunk.js.map": "/reactive-music-player/static/js/453.21f478df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad14c09.css",
+    "static/js/main.25d74021.js"
+  ]
+}
